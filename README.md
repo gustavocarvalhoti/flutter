@@ -24,8 +24,8 @@
 <br>
 
 <p align="center">
-    <img alt="Screens" src=".github/screenshot.png" height="350px" />
-    <img alt="Screens" src=".github/screenshot2.png" height="350px" />
+    <img alt="Screens" src=".github/screenshot.png" height="500px" />
+    <img alt="Screens" src=".github/screenshot2.png" height="500px" />
 </p>
 
 ## :bookmark: About
