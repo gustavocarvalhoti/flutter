@@ -88,5 +88,5 @@ https://flutter.dev/docs/development/ui/interactive#stateful-and-stateless-widge
 The cod is on the folder /lib
 ````
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](.github/img.png)
+![img_1.png](.github/img_1.png)
